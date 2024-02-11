@@ -6,8 +6,11 @@
         Revertendo uma frase
       </h1>
     </div>
+    <ReverseView />
   </div>
 </template>
 
 <script setup>
+import ReverseView from './composable/ReverseView.vue'
+
 </script>
