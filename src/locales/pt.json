@@ -1,0 +1,10 @@
+{
+  "tittle": "Revertendo uma frase",
+  "subtittle": "Digite uma frase abaixo:",
+  "inputs": {
+    "reverse": "Frase revertida:"
+  },
+  "buttons": {
+    "reverse": "Reverter"
+  }
+}

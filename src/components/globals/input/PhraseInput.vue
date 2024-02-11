@@ -10,7 +10,7 @@
     <ReverseButton @click="reversePhrase"/>
   </div>
   <div v-if="reversedPhrase" class="p-2 m-2 result-container font-medium text-2xl">
-    <h3>Frase revertida: {{ reversedPhrase }}</h3>
+    <h3>{{ $t('inputs.reverse') }} {{ reversedPhrase }}</h3>
   </div>
 </template>
 

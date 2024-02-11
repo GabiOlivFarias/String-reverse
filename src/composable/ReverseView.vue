@@ -1,7 +1,7 @@
 <template>
     <div>
         <p class="flex justify-start pl-4 font-regular text-2xl"> 
-            Digite uma frase abaixo: 
+            {{ $t('subtittle') }}
         </p>
         <PhraseInput />
     </div>
@@ -9,5 +9,4 @@
 
 <script setup>
 import PhraseInput from '@/components/globals/input/PhraseInput.vue'
-
 </script>

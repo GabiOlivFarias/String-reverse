@@ -2,7 +2,7 @@
   <div class="flex flex-row justify-center">
     <button class="m-2 p-2 text-2xl text-white bg-medium-red w-32 rounded-md flex flex-row hover:drop-shadow-red-1">
       <ReverseIcon class="text-white"/>
-      <p> Reverter</p>
+      <p>{{ $t('buttons.reverse') }}</p>
     </button>
   </div>
 </template>

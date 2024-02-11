@@ -3,7 +3,7 @@
     <img class="hidden lg:block absolute top-0 right-0 w-1/6 px-4 mt-4 mr-4" src="../public/images/logo.png" />
     <div class="pb-24">
       <h1 class="flex justify-center font-bold text-6xl">
-        Revertendo uma frase
+        {{ $t('tittle') }}
       </h1>
     </div>
     <ReverseView />
