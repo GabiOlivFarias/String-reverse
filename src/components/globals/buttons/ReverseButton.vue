@@ -9,6 +9,5 @@
   
 <script setup>
   import ReverseIcon from '@/components/icons/ReverseIcon.vue'
-
 </script>
   
