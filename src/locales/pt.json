@@ -6,5 +6,8 @@
   },
   "buttons": {
     "reverse": "Reverter"
+  },
+  "placeholders": {
+    "type_phrase": "Digite uma frase"
   }
 }
